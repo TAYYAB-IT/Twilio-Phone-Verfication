@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^11.0.0",
+    "express": "^4.17.2",
+    "twilio": "^3.73.0"
+  }
+}
